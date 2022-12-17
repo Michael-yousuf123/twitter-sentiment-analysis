@@ -1,18 +1,17 @@
 
-
 # Twitter sentiment analysis for the Qatar 2022 FIFA World Cup
+## Author
+
+- [Michael Yousuf](https://github.com/Michael-yousuf123)
+
+## Goal
+
 The goal of this project was to use sentiment analysis on data collected from Twitter to ascertain the feelings of FIFA World Cup 2022 viewers. In order to understand the sentiments of twitter users, this project used a variety of Python packages. The following sections explain the project's general procedure.
 
 
 ## License
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
- 
-
-
-## Author
-
-- [Michael Yousuf](https://github.com/Michael-yousuf123)
 
 
 ## 🔗 Links
